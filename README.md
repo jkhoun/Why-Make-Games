@@ -1,1 +1,16 @@
 # Why-Make-Games
+
+
+## My Motivation
+
+My Motivation to create games is to immerse players into a world that takes thier minds off whatever elese is going on in the real world and get lost into a new world with limitless possibilities. Be through through farming adn crafting to puzzles one may have to face in order to recieve quest items. 
+
+## Influential games 
+
+Influential games to me growing up was Zelda: the ocarina of time. Playing that game I was lost in the world of Hyrule. I have never played an open worl map that allowed me to explore the lands on horseback or even go fishing in a pond. 
+
+## Hope to create
+
+I hope to create a game where players can feel the world they are playing. like in the ghost of yotei where youre standing in the grass field and it feels like youre watching a movie. that is the immersion i want to create. 
+
+<img width="474" height="237" alt="image" src="https://github.com/user-attachments/assets/337c18a9-6f01-4954-8adb-2e173461c41d" />
